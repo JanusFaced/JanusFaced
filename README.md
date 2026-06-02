@@ -17,14 +17,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+## 📂 Мои проекты
+- [Сайт-визитка](https://projectsigmatrading.ru/)
+- [Экспериментальный генератор сигналов на базе CatBoost](https://projectsigmatrading.ru/signals)
+- [Экспериментальный предсказатель временных рядов на базе CatBoost](https://projectsigmatrading.ru/predict)
+
 ## 🎯 Текущие цели
 - [ ] Продвигаться в области ИИ
 - [ ] Продолжать изучать знания про масштабируемость
 - [ ] Улучшить понимание CI/CD
 - [ ] Прокачаться в грамотном тестировании
-
-## 📂 Мои проекты
-- [ProjectSigmaTrading](https://github.com/JanusFaced/ProjectSigmaTrading) - Торговая система с ML предсказаниями
-
----
-⭐️ Создано с помощью [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)

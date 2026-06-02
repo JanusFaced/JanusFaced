@@ -1,23 +1,34 @@
-<div align="center">
-  
-### 👋 Привет, я Александр
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+разработчик;Data+Scientist;DevOps+энтузиаст)](https://git.io/typing-svg)
+# Привет! Я Александр 👋
 
-</div>
+## 🚀 О себе
+- 🔭 Сейчас работаю над **ProjectSigmaTrading**
+- 🌱 Изучаю: **DevOps, Docker, Git**
+- 💬 Спроси меня о: Python, Trading, Backend
+- 📫 Как со мной связаться: [Telegram](ссылка) | [LinkedIn](ссылка)
+- ⚡ Интересный факт: Учусь на своих ошибках в Git 😄
 
-## 📍 Обо мне
+## 🛠️ Технологии и инструменты
 
-```python
-class Alexander:
-    def __init__(self):
-        self.location = "🌍 Belarus"
-        self.role = "Backend Developer / ML Engineer"
-        self.stack = ["Python", "FastAPI", "Docker", "PostgreSQL"]
-        self.current_focus = "ProjectSigmaTrading"
-    
-    def get_status(self):
-        return "🚀 В процессе изучения DevOps и Git"
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-me = Alexander()
-print(me.get_status())
+## 📊 Моя статистика
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanusFaced&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=JanusFaced&show_icons=true&theme=default)
+
+## 🎯 Текущие цели
+- [x] Настроить Git и GitHub
+- [ ] Задеплоить проект на VPS
+- [ ] Написать тесты для MLPipeline
+- [ ] Настроить CI/CD
+
+## 📂 Мои проекты
+- [ProjectSigmaTrading](https://github.com/JanusFaced/ProjectSigmaTrading) - Торговая система с ML предсказаниями
+
+---
+⭐️ Создано с помощью [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)

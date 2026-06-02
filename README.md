@@ -37,6 +37,14 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=white)
 
+## 📊 Активность
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanusFaced&theme=react-dark" width="100%">
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x400/0A1929/64FFDA?text=Code+Finance+AI" alt="banner" width="100%">
+</div>
+
 ## 📊 GitHub Статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JanusFaced&show_icons=true&theme=default)

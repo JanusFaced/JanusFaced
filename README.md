@@ -2,14 +2,16 @@
 
 ## 🚀 О себе
 - 🔭 Сейчас работаю над **ProjectSigmaTrading**
-- 🌱 Изучаю: **DevOps, Docker, Git**
-- 💬 Спроси меня о: Python, Trading, Backend
-- 📫 Как со мной связаться: [Telegram](ссылка) | [LinkedIn](ссылка)
-- ⚡ Интересный факт: Учусь на своих ошибках в Git 😄
+- 🌱 Изучаю: **DS, ML, AI, DevOps, Backend**
+- 💬 Спроси меня о: Python, AI, Quantitative Finance
+- ⚡ Интересный факт: Учусь на своих ошибках 😄
 
 ## 🛠️ Технологии и инструменты
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

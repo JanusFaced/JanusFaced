@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  
+### 👋 Привет, я Александр
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+разработчик;Data+Scientist;DevOps+энтузиаст)](https://git.io/typing-svg)
 
-<!--
-**JanusFaced/JanusFaced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+## 📍 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Alexander:
+    def __init__(self):
+        self.location = "🌍 Belarus"
+        self.role = "Backend Developer / ML Engineer"
+        self.stack = ["Python", "FastAPI", "Docker", "PostgreSQL"]
+        self.current_focus = "ProjectSigmaTrading"
+    
+    def get_status(self):
+        return "🚀 В процессе изучения DevOps и Git"
+
+me = Alexander()
+print(me.get_status())

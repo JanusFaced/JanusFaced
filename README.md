@@ -37,6 +37,11 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=white)
 
+## 📊 GitHub Статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JanusFaced&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanusFaced&layout=compact)
+
 ## 📂 Мои проекты
 - [Сайт-визитка](https://projectsigmatrading.ru/)
 - [Экспериментальный генератор сигналов на базе CatBoost](https://projectsigmatrading.ru/signals)
@@ -47,3 +52,12 @@
 - [ ] Продолжать изучать знания про масштабируемость
 - [ ] Улучшить понимание CI/CD
 - [ ] Прокачаться в грамотном тестировании
+
+## 📫 Как со мной связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanusFaced)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша_почта@gmail.com)
+
+---
+![Visitor Count](https://profile-counter.glitch.me/JanusFaced/count.svg)

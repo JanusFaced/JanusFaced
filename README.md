@@ -1,5 +1,9 @@
 # Привет! Я Александр 👋
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,100:64FFDA&height=250&section=header&text=JanusFaced&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Backend%20%7C%20ML%20%7C%20AI&descAlignY=55" width="100%" alt="header"/>
+</div>
+
 ## 🚀 О себе
 - 🔭 Сейчас работаю над **ProjectSigmaTrading**
 - 🌱 Изучаю: **DS, ML, AI, DevOps, Backend**

@@ -17,17 +17,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 📊 Моя статистика
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanusFaced&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=JanusFaced&show_icons=true&theme=default)
-
 ## 🎯 Текущие цели
-- [x] Настроить Git и GitHub
-- [ ] Задеплоить проект на VPS
-- [ ] Написать тесты для MLPipeline
-- [ ] Настроить CI/CD
+- [ ] Продвигаться в области ИИ
+- [ ] Продолжать изучать знания про масштабируемость
+- [ ] Улучшить понимание CI/CD
+- [ ] Прокачаться в грамотном тестировании
 
 ## 📂 Мои проекты
 - [ProjectSigmaTrading](https://github.com/JanusFaced/ProjectSigmaTrading) - Торговая система с ML предсказаниями

@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 О себе
-- 🔭 Сейчас работаю над **ProjectSigmaTrading**
+- 🔭 Сейчас работаю над **Quantitative Finance**
 - 🌱 Изучаю: **DS, ML, AI, DevOps, Backend**
 - 💬 Спроси меня о: Python, AI, Quantitative Finance
 - ⚡ Интересный факт: Учусь на своих ошибках 😄

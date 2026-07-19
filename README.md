@@ -6,8 +6,8 @@
 
 ## 🚀 О себе
 - 🔭 Сейчас работаю над **Quantitative Finance**
-- 🌱 Изучаю: **DS, ML, AI, DevOps, Backend**
-- 💬 Спроси меня о: Python, AI, Quantitative Finance
+- 🌱 Изучаю: **DS, ML, AI, DevOps, Backend, Frontend**
+- 💬 Спроси меня о: AI, ML, Quantitative Finance, Coding
 - ⚡ Интересный факт: Учусь на своих ошибках 😄
 
 ## 🛠️ Main Technologies

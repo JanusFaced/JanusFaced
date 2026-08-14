@@ -41,10 +41,8 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=white)
 
-## 📂 Мои проекты
+## 📂 Мой проект в области квантитативных финансов и автоматизированной торговли
 - [Сайт-визитка](https://projectsigmatrading.ru/)
-- [Экспериментальный генератор сигналов на базе CatBoost](https://projectsigmatrading.ru/signals)
-- [Экспериментальный предсказатель временных рядов на базе CatBoost](https://projectsigmatrading.ru/predict)
 
 ## 📊 Активность
 

@@ -44,10 +44,6 @@
 ## 📂 Мой проект в области квантитативных финансов и автоматизированной торговли
 - [Сайт-визитка](https://projectsigmatrading.ru/)
 
-## 📊 Активность
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanusFaced&theme=react-dark" width="100%">
-
 ## 🎯 Текущие цели
 - [ ] Продвигаться в области ИИ
 - [ ] Продолжать изучать знания про масштабируемость
